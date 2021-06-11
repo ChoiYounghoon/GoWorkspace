@@ -35,9 +35,8 @@ go env -w GO111MODULE=auto
 ```
 
 ## vscode 플러그인
-
+```sh
 GitLens : git 관리
 Git History : commit/push 이력 관리
+```
 
-
-##
