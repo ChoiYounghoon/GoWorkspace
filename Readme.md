@@ -18,10 +18,8 @@ golang 설치 (path 설정):
 
 ```sh
 윈도우키 + R > systdm.cpl ,3
-
-![image](https://user-images.githubusercontent.com/16375921/121686096-b52a9180-cafb-11eb-9cab-2ee8eb1e72f1.png)
-
 ```
+![image](https://user-images.githubusercontent.com/16375921/121686096-b52a9180-cafb-11eb-9cab-2ee8eb1e72f1.png)
 
 vscode framework 설치:
 
@@ -40,3 +38,6 @@ go env -w GO111MODULE=auto
 
 GitLens : git 관리
 Git History : commit/push 이력 관리
+
+
+
